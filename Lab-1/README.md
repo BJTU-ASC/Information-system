@@ -1,6 +1,6 @@
 # Lab1
 
-## 1.1数据库介绍和基本术语
+## 1.1 数据库介绍和基本术语
 信息系统： 用于收集、处理、存储和分发信息的组织系统。由于信息系统处理数据量越来越大，现在数据库是所有信息系统的基础框架。
 
 数据库：
@@ -49,5 +49,8 @@ Codd, E.F. (1970) A relational model of data for large shared data banks, Comm. 
  2. 实体的完整性规则：需要主键来标识不同的元组，主键唯一且不为空，主键可以是单一的属性也可以是几个属性的集合。
  3. 引用的完整性规则：需要外键来将不同的表联系起来。外键的取值一定在其父键中存在。
 
+## 1.2 workbench的使用
 
-
+  <img width="247" alt="image" src="https://user-images.githubusercontent.com/102899160/163666430-2bbbc0b1-326c-4686-af9e-1e18c4b6d7da.png">
+  
+  <img width="269" alt="image" src="https://user-images.githubusercontent.com/102899160/163666438-e77ac703-44e2-40b9-8fa5-624c7bc5f9c6.png">
