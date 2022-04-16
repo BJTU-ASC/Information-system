@@ -8,7 +8,7 @@
 > 
 > 
 ## 目录
-* [数据库的基本概念](https://github.com/BJTU-ASC/Java-tutorial/blob/main/Source%20code/HelloWorld.java)
+* [数据库的基本概念](https://github.com/BJTU-ASC/Information-system/tree/main/Lab-1)
 
 
 
