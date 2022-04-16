@@ -1,6 +1,6 @@
 # Lab 3
 
-## Ps对上节的一点补充
+## Ps：对上节的一点补充
 对LIKE通配符的补充
 
 SELECT * FROM Customers WHERE City LIKE '_ondon’; 选择第一个字母不确定但是后五个字母是ondon的项
