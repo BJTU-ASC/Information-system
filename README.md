@@ -10,7 +10,8 @@
 ## 目录
 * [数据库的基本概念](https://github.com/BJTU-ASC/Information-system/tree/main/Lab-1)
 * [SELECT基础](https://github.com/BJTU-ASC/Information-system/tree/main/Lab-2)
-
+* [条件连接符和聚合函数](https://github.com/BJTU-ASC/Information-system/tree/main/Lab-3)
+* [涉及多表的查询](https://github.com/BJTU-ASC/Information-system/tree/main/Lab-4)
 
 
 
